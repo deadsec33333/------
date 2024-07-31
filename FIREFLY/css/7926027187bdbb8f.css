@@ -1,0 +1,41 @@
+.font-texture_font__9_wjN {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    z-index: 1000;
+    font-family: monospace;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #fff;
+    background-color: #000
+}
+
+.font-texture_font__9_wjN input {
+    color: #fff;
+    border-bottom: 1px solid #fff
+}
+
+.font-texture_font__9_wjN canvas {
+    width: 256px;
+    height: 256px
+}
+
+.font-texture_font__9_wjN canvas:last-child {
+    position: absolute;
+    left: 0;
+    bottom: 0
+}
+
+.dragonfly_canvas___77RR {
+    cursor: -webkit-grab;
+    cursor: grab
+}
+
+.dragonfly_gui__N_1qZ {
+    position: absolute;
+    left: 1.6666666667vw;
+    top: 1.6666666667vw;
+    width: 278px;
+    height: 100%;
+    text-transform: uppercase
+}
